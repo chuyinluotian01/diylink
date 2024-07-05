@@ -1,0 +1,15 @@
+{
+    "accounts": [
+        {
+            "username": "XXX",
+            "cookie": "",
+            "token": ""
+        },
+        {
+            "username": "xxx",
+            "cookie": "",
+            "token": ""
+        }            
+    ],
+    "pushplus_token": ""
+}
